@@ -142,7 +142,7 @@ Complete the following tasks:
 
 1. Remain in the `Dealer_Analysis` directory.  Develop a shell script called `roulette_dealer_finder_by_time.sh` that can analyze the employee schedule to easily find the roulette dealer at a specific time.
 
-      **Hint:** You will be using a script similar to the one you created for the dealer analysis step, but you will not output the results into a file.
+      **Hint:** You will be using a script similar to the one you created for the dealer analysis step, but you w   ill not output the results into a file.
 
     - Design the shell script to accept the following two arguments:
       - One for the date (four digits)
@@ -166,7 +166,7 @@ Complete the following tasks:
 
 - Move the following to the `Player_Dealer_Correlation` directory:
   - All note files
-  - Evidence files:
+  - Evidence files:7
     - `Roulette_Losses`
     - `Dealers_working_during_losses`
   - Shell script(s)
